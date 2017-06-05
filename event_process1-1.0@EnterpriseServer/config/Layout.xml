@@ -4,5 +4,6 @@
     <service-instance name="chat1" x="168" y="75"/>
     <service-instance name="chat2" x="485" y="94"/>
     <service-instance name="chat3" x="364" y="253"/>
+    <service-instance name="chat4" x="549" y="223"/>
   </subflow>
 </layout>
